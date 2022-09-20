@@ -1,6 +1,6 @@
 # Solidity Smart Contracts: Building DeFi DApps and Protocols for the Ethereum Blockchain
 
-### [The Companion Dapp Learning Repo](https://github.com/panacloud-modern-global-apps/dapps-nextjs)
+### [The Companion Dapp Learning Repo](https://github.com/panacloud-modern-global-apps/dapps-nextjs);
 
 This repo is part of the [Certified Web 3.0 and Metaverse Developer Training Program](https://www.panaverse.co/)
 
