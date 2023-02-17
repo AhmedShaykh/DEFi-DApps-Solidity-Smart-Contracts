@@ -1,4 +1,4 @@
-# Solidity Smart Contracts: Building DeFi DApps and Protocols for the Ethereum Blockchain
+# Solidity Smart Contracts: Building DeFi DApps and Protocols for the Ethereum Blockchain!
 
 ### [The Companion Dapp Learning Repo](https://github.com/panacloud-modern-global-apps/dapps-nextjs)
 
